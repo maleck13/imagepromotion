@@ -40,7 +40,7 @@ oc project env2
 Setup the required Objects using the env2.json template
 
 ```
-oc new-app -f env2.json
+oc new-app -f https://raw.githubusercontent.com/maleck13/imagepromotion/master/env2.json
 
 ```
 
